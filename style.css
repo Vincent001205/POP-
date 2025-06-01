@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 
-#popcat {
+#pop蠍 {
     width: 400px;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-    #popcat {
+    #pop蠍 {
         width: 200px;
     }
 }
